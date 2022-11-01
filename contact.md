@@ -1,6 +1,6 @@
 ---
 title: "Contact Page"
-layout: default
+layout: page
 ---
 
 ## Email

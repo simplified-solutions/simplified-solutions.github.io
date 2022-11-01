@@ -1,6 +1,6 @@
 ---
 title: "Services Page"
-layout: default
+layout: page
 ---
 
 ## Data Science and Visualization
