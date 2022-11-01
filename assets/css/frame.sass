@@ -4,22 +4,25 @@
 @import index, font, basic, layout, classes
 
 html
-  background: lighten($dark, 70%)
+  // comments start with // 
+  //background: lighten($dark, 70%) // this is the original line 
+  background: darken($light, 70%)
   padding: 0 calc(38% - 22em)
 
 body
-  box-shadow: 0 0 .3em lighten($dark, 65%)
+  box-shadow: 0 0 .3em darken($light, 65%)
 
 body > header, body > footer
-  background: lighten($dark, 5%)
-  color: $light
+  background: darken($light, 5%)
+  color: $dark
 
 @media (min-width: 32em)
   body > header, body > article, body > footer
     padding: 1.75em calc(22% - 6em)
 
-@media (prefers-color-scheme: dark)
+//@media (prefers-color-scheme: dark)
+@media (prefers-color-scheme: light)
   body, body > header, body > footer
-    box-shadow: 0 0 0 1px lighten($dark, 8%)
+    box-shadow: 0 0 0 1px darken($light, 8%)
   html, body > header, body > footer
-    background: $dark
+    background: $light
