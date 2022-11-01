@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Simplified Solutions!"
+title: "Services Page"
 layout: default
 ---
 
