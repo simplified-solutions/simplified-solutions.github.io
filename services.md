@@ -3,4 +3,14 @@ title: "Services Page"
 layout: default
 ---
 
-Our services: Expertise in data science and visualization, spreadsheet management with Excel, and business consulting. 
+# Data Science and Visualization
+    
+Couple of words here. Figure. 
+
+# Excel
+
+Couple of words. Figure.
+
+# Business Consulting
+
+Couple of words. Figure.
