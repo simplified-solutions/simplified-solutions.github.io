@@ -3,14 +3,14 @@ title: "Services Page"
 layout: default
 ---
 
-# Data Science and Visualization
+## Data Science and Visualization
     
 Couple of words here. Figure. 
 
-# Excel
+## Excel
 
 Couple of words. Figure.
 
-# Business Consulting
+## Business Consulting
 
 Couple of words. Figure.

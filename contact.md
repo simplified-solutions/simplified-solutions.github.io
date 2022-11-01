@@ -3,12 +3,12 @@ title: "Contact Page"
 layout: default
 ---
 
-# Email
+## Email
 
 simplifiedsolutionscorp@gmail.com
 
-# Phone
+## Phone
 
 XXX-XXX-XXXX
 
-# We look forward to hearing from you.     
+## We look forward to hearing from you.     
