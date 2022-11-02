@@ -19,11 +19,12 @@ Carlos is currently a graduate student at the Center for Turbulence Research at 
 
 ## Richard Vazquez
 
-## Fabiano (Last name)
+## Fabiano Praca, M.S., P.E.
+
+## Lauren Rodriguez, M.S.
 
 ## Jorge Avila 
 
-## Lauren Rodriguez 
 {% comment %}
 ![CarlosPic](assets/linkedin_photo.jpg)
 {% endcomment %}
