@@ -26,4 +26,4 @@ Carlos is currently a graduate student at the Center for Turbulence Research at 
 ## Lauren Rodriguez 
 {% comment %}
 ![CarlosPic](assets/linkedin_photo.jpg)
-{% end comment %}
+{% endcomment %}
