@@ -13,9 +13,7 @@ Simplified Solutions was founded in 2020. Insert more sappy founding details her
 ## Carlos A. Gonzalez, M.S.
 Carlos is currently a graduate student at the Center for Turbulence Research at Stanford University where he works on reduced model development for laminar and transitional flows. He is an expert in numerical methods, applied math, and data analysis and is passionate about the clear and conscise communication of complicated ideas through good data visualization. 
 
-<img src="assets/linkedin_photo.jpg"
-     alt="Picture of Carlos"
-     style="width:500px;height:600px;" />
+<div style="text-align: right;"><img src="assets/linkedin_photo.jpg" width="100" alt="carlos.jpg" /></div>
 
 ## Richard Vazquez
 
