@@ -7,8 +7,9 @@ layout: page
     
 | Our data science services can help you run experiments on your data in search of new business insights. With our expertise in machine learning, artificial intelligence, and deep neural networks, we can help your company design, engineer, and deploy custom end-to-end AI products and solutions. | ![neural_net](/assets/images/neural_net_schematic.png) |
 
-
+{% comment %}
 <div style="text-align: right;"><img src="assets/images/neural_net_schematic.png" width="300" alt="neural_net.png" /></div>
+{% endcomment %}
 
 ## Excel
 
