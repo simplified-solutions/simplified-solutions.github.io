@@ -17,4 +17,5 @@ We can help with custom Excel spreadsheet design, software prototypes in Excel, 
 
 ## Business Consulting
 
-Couple of words. Figure.
+Our business consulting services focus on our clients' most critical issues and opportunities: strategy, marketing, organization, and finances.
+
